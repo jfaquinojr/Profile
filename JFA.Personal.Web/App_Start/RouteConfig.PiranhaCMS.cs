@@ -7,7 +7,7 @@ using System.Web.Routing;
 
 namespace JFA.Personal.Web
 {
-	public class RouteConfig
+	public class RouteConfigPiranhaCMS
 	{
 		public static void RegisterRoutes(RouteCollection routes) {
 			routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
